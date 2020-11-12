@@ -1,16 +1,16 @@
-### Hi there 👋
+## :octopus: Hello World! 👋 I'm Conner.
 
-<!--
-**reap2sow1/reap2sow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer and **GNU/Linux** advocate :penguin:. No I don't use **Arch** for those wondering (**Pop!_OS** is the move), this may change though.
 
-Here are some ideas to get you started:
+The programming/scripting languages I work with mostly are: **Python**, **Bash**, **C**, **C++**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :star: Open Source Software ftw!
+- :calling: I’m open to collaborate on pretty much anything. Still trying to find my niche.
+- :mailbox_with_mail: How to reach me: crosbyco3@gmail.com
+
+**...or you can reach me on the following platforms:**
+
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&color=1d359f" />](https://www.linkedin.com/in/conneracrosby/)
+[<img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=Twitter&color=2C3539" />](https://twitter.com/conneracrosby)
+
+<img src="https://github-readme-stats.vercel.app/api?username=reap2sow1&count_private=true&show_icons=true&theme=radical" />
