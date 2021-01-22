@@ -6,7 +6,7 @@ The programming/scripting languages I work with mostly are: **Python**, **Bash**
 
 - :star: Open Source Software ftw!
 - :calling: I’m open to collaborate on pretty much anything. Still trying to find my niche.
-- :mailbox_with_mail: How to reach me: crosbyco3@gmail.com
+- :mailbox_with_mail: How to reach me: conner@conneracrosby.tech
 
 **...or you can reach me on the following platforms:**
 
